@@ -1,0 +1,9 @@
+https://www.codeproject.com/Articles/161871/Fast-Colored-TextBox-for-syntax-highlighting
+https://stackoverflow.com/questions/1827323/c-synchronize-scroll-position-of-two-richtextboxes
+https://msdn.microsoft.com/en-us/library
+https://www.c-sharpcorner.com/blogs/creating-line-numbers-for-richtextbox-in-c-sharp
+https://www.youtube.com/watch?v=HeDBYc3ybxc
+https://stackoverflow.com/questions/18156451/code-folding-in-richtextbox
+http://www.pindari.com/rtf1.html
+https://www.codeproject.com/Articles/10532/Syntax-highlighting-textbox-written-in-C
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms644950(v=vs.85).aspx
